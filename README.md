@@ -6,5 +6,5 @@ Most of the functions for formatting the matrix into the form accepted by the so
 BA_perform_Gene_Knockout.py provides the used code for the gene knockout analysis.
 
 The model can be found in Examples\Actual_Matrix.xlsx. 
-The used ractions for the construction of the model are provided in model_reactions\Flux_equations_CyVersion.
+The used reactions for the construction of the model are provided in model_reactions\Flux_equations_CyVersion.
 For a better overview, the names of the reactants together with the KEGG annotation were combined in the file reactants_name_and_coNumbersCyVersion.pdf.
